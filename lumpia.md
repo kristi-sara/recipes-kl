@@ -6,3 +6,6 @@ carrots
 celery
 garlic
 
+# steps
+chop into small pieces the pork, celery
+
